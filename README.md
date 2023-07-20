@@ -1,3 +1,6 @@
+![2023-07-18 16_35_35-Window](https://github.com/Benaxo/metaversus/assets/79756073/595c95a7-2a9b-435b-89fb-e4aa340c417f)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
